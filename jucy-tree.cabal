@@ -4,7 +4,7 @@ synopsis:             Sample implementation for Ascii Art Christmas tree
 description:          Some 30 minute randome problem
 license:              BSD3
 license-file:         LICENSE
-homepage:             https://github.com/tolysz/jucy-tree
+homepage:             https://github.com/tolysz/jucy-t
 author:               Marcin Tolysz
 maintainer:           tolysz@gmail.com
 category:             Fun
