@@ -2,9 +2,9 @@ name:                 jucy-tree
 version:              0.1.0.0
 synopsis:             Sample implementation for Ascii Art Christmas tree
 description:          Some 30 minute randome problem
--- license:
--- license-file:
-homepage:             
+license:              BSD3
+license-file:         LICENSE
+homepage:             https://github.com/tolysz/jucy-tree
 author:               Marcin Tolysz
 maintainer:           tolysz@gmail.com
 category:             Fun
